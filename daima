@@ -2,13 +2,4 @@
         increment1(state){
             state.count++;
         },
-        increment2(state){
-            state.count=state.count+5;
-        },
-        descrement1(state){
-            state.count--;
-        },
-        descrement2(state){
-            state.count=state.count-5;
-        }
     }
