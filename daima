@@ -1,5 +1,6 @@
  reducers:{
         increment1(state){
             state.count++;
+state.count_--
         },
     }
